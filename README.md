@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VineetBhawsar
+- 👋 Hi, I’m Vineet aka BROOKXLYN
 - 👀 Just a Techie! 
 
 <!---

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineet Bhavsar</h1>
-<h3 align="center">Aspiring QA Tester,Manual Software Testing</h3>
+<h3 align="center">Currently, I am aspiring to become a QA tester, where i can apply his analytical and problem-solving skills to ensure software quality and customer satisfaction. i am actively seeking opportunities to further develop his skills in this area.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetbhawsar&label=Profile%20views&color=0e75b6&style=flat" alt="vineetbhawsar" /> </p>
 
@@ -17,14 +17,17 @@
 
 - 💬 Ask me about **QA Testing, Manual Testing, Cybersecurity, Ethical Hacking**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brookxlynmusic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brookxlynmusic" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vineetbhavsar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vineetbhavsar/" height="30" width="40" /></a>
-<a href="https://fb.com/vineet bhavsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vineet bhavsar" height="30" width="40" /></a>
-<a href="https://www.behance.net/vineet bhawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vineet bhawsar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vineetbhavsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineetbhavsar" height="30" width="40" /></a>
+<a href="https://fb.com/vineetbhavsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vineetbhavsar" height="30" width="40" /></a>
+<a href="https://www.behance.net/vineetbhawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vineetbhawsar" height="30" width="40" /></a>
 <a href="https://medium.com/@vineetbhavsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vineetbhavsar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/brookxlyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brookxlyn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

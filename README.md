@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineet Bhavsar</h1>
-<h3 align="center">Currently, I am aspiring to become a QA tester, where i can apply his analytical and problem-solving skills to ensure software quality and customer satisfaction. i am actively seeking opportunities to further develop his skills in this area.</h3>
+<h3 align="center">.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetbhawsar&label=Profile%20views&color=0e75b6&style=flat" alt="vineetbhawsar" /> </p>
 

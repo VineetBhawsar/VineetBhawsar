@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineet Bhavsar</h1>
-<h3 align="center">Hello</h3>
+<h3 align="center">I am a highly motivated and versatile professional with a unique combination of expertise in cybersecurity, IT , graphic design, and a genuine passion for all things tech. With 8 months of hands-on experience as a cybersecurity consultant and 1.5 years of proven success as a professional graphic designer, I bring a well-rounded skill set to the table.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetbhawsar&label=Profile%20views&color=0e75b6&style=flat" alt="vineetbhawsar" /> </p>
 
